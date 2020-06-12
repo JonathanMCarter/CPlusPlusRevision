@@ -4,7 +4,7 @@ Going over C++ for the first time in like 2 years, hoping to remember what I kne
 
 # Projects
 Hello World
-- Everyone's first script, hellow world!
+- Everyone's first script, hello world!
 
 Interest Calculator Challenge
 - A simple challnege to multiply 3 doubles together to get a result and display it in the console
