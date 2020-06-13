@@ -1,3 +1,9 @@
+/*
+*  Copyright (c) Jonathan Carter
+*  E: jonathan@carter.games
+*  W: https://jonathan.carter.games/
+*/
+
 #include <iostream>	// Input Output operations included
 
 // Calculates interest from defined values - should result with an answer of 50...

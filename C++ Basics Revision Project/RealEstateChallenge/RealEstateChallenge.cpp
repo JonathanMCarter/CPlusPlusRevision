@@ -1,3 +1,9 @@
+/*
+*  Copyright (c) Jonathan Carter
+*  E: jonathan@carter.games
+*  W: https://jonathan.carter.games/
+*/
+
 #include <iostream>
 #include <string>
 #include <iomanip>
