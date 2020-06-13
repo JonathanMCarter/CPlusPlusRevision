@@ -1,0 +1,3 @@
+﻿  BankingChallenge.cpp
+C:\Users\J\Desktop\c++ basics\C++ Basics Revision Project\BankingChallenge\BankingChallenge.cpp(11,45): warning C4101: 'finalBal': unreferenced local variable
+  BankingChallenge.vcxproj -> C:\Users\J\Desktop\c++ basics\C++ Basics Revision Project\Debug\BankingChallenge.exe

@@ -1,0 +1,3 @@
+﻿  Comparison.cpp
+C:\Users\J\Desktop\c++ basics\C++ Basics Revision Project\Comparison\Comparison.cpp(9,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Comparison.vcxproj -> C:\Users\J\Desktop\c++ basics\C++ Basics Revision Project\Debug\Comparison.exe

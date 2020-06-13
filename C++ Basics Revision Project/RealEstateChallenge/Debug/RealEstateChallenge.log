@@ -1,0 +1,3 @@
+﻿  RealEstateChallenge.cpp
+C:\Users\J\Desktop\c++ basics\C++ Basics Revision Project\RealEstateChallenge\RealEstateChallenge.cpp(81,39): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  RealEstateChallenge.vcxproj -> C:\Users\J\Desktop\c++ basics\C++ Basics Revision Project\Debug\RealEstateChallenge.exe
